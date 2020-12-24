@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ناصف 1 - العثور على الهدف
-permalink: /machines/educational/nasef1
+permalink: /machines/easy/nasef1
 ---
 > 
 **إسم الماكينة :** ناصف 1- العثور على الهدف 
