@@ -11,4 +11,4 @@ permalink: /machines/
 - [LinESC ماكينة](/machines/educational/linesc)
 
 ### ماكينات سهلة
-- [ناصف 1 - العثور على الهدف](/machines/educational/nasef1)
+- [ناصف 1 - العثور على الهدف](/machines/easy/nasef1)
