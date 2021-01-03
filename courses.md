@@ -28,3 +28,6 @@ permalink: /courses/
 
 ### (Challanges تحديات)
 رابعًا التحديات والتي تحمل دوراتها الرقم 4xx وفي هذه السلسلة نقدم لكم مجموعة من حل تحديات (التقاط العلم Capture The Flag)
+- [التقط العلم مع المعمل (400)](https://www.youtube.com/playlist?list=PL71FakzkAfYuYGBKjZSQ2oQqykQeTFDlJ)
+- [التقط العلم مع TryHackMe (401)](https://www.youtube.com/playlist?list=PL71FakzkAfYtC7GNi2Kk3b6DqS4EzmK5u)
+- [التقط العلم مع Vulnhub (402)](https://www.youtube.com/playlist?list=PL71FakzkAfYv6YAgurcNWu5EJfPVPVz25)
