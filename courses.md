@@ -19,10 +19,8 @@ permalink: /courses/
 - [التقط العلم مع Cybertalents (GEN005)](https://www.youtube.com/playlist?list=PL71FakzkAfYuxLSw7hUUxSYdotPs8cxH0)
 
 
-
 ### (Red Team الفريق الأحمر)
 ثانيًا دورات الفريق الأحمر وفي هذه الدورات نقدم لكم محتوى خاص بالجانب الهجومي من أمن المعلومات
-
 - [كورس تخطي صلاحيات لينكس Linux Privilege Escalation (RED001)](https://www.youtube.com/playlist?list=PL71FakzkAfYuB50M4TDamUBJD0H_rbsFy)
 
 
