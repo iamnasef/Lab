@@ -12,11 +12,8 @@ permalink: /courses/
 
 ### (General عام)
 أولًا الدورات العامة وفي هذه الدورات نقدم لكم شروحات للأدوات و حل تحديات والعديد من المواضيع العامة الخاصة بأمن المعلومات.
-- [التقط العلم مع المعمل (GEN001)](https://www.youtube.com/playlist?list=PL71FakzkAfYuYGBKjZSQ2oQqykQeTFDlJ)
-- [التقط العلم مع Vulnhub (GEN002)](https://www.youtube.com/playlist?list=PL71FakzkAfYv6YAgurcNWu5EJfPVPVz25)
-- [التقط العلم مع TryHackMe (GEN003)](https://www.youtube.com/playlist?list=PL71FakzkAfYtC7GNi2Kk3b6DqS4EzmK5u)
-- [كورس تعلم أداة الوايرشارك Wireshark (GEN004)](https://www.youtube.com/playlist?list=PL71FakzkAfYtXETo4gJysS7KwrM-bB8RC)
-- [التقط العلم مع Cybertalents (GEN005)](https://www.youtube.com/playlist?list=PL71FakzkAfYuxLSw7hUUxSYdotPs8cxH0)
+- [كورس تعلم أداة الوايرشارك Wireshark (GEN001)](https://www.youtube.com/playlist?list=PL71FakzkAfYtXETo4gJysS7KwrM-bB8RC)
+
 
 
 ### (Red Team الفريق الأحمر)
