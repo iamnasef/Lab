@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ماكينة LinESC
-permalink: /machines/educational/linesc
+permalink: /challenges/courses/linesc
 ---
 > 
 **إسم الماكينة :** لينإيسك (LinESC)

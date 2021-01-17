@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ناصف 1 - العثور على الهدف
-permalink: /machines/easy/nasef1
+permalink: /challenges/boot2root/nasef1
 ---
 > 
 **إسم الماكينة :** ناصف 1- العثور على الهدف 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ناصف 1 - العثور على الهدف
-permalink: /machines/easy/nasef1
+permalink: /challenges/cryptography/dotted
 ---
 > 
 **إسم التحدي :** Dotted 
