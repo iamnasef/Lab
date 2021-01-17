@@ -20,6 +20,7 @@ permalink: /challenges/cryptography/dotted
 [رابط التحميل](https://drive.google.com/file/d/13RvBZi16xxQLU6s-MamdLAsfcqeiNQ3Q)
 
 
+>!This is hidden until your cursor hovers on top of it
 
 
 ### التقارير
