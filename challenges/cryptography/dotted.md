@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ناصف 1 - العثور على الهدف
+title: تحدي dotted
 permalink: /challenges/cryptography/dotted
 ---
 > 
