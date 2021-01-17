@@ -19,16 +19,17 @@ permalink: /challenges/cryptography/dotted
 لقد حصلت على هذه الرسالة من صديقك
 [رابط التحميل](https://drive.google.com/file/d/13RvBZi16xxQLU6s-MamdLAsfcqeiNQ3Q)
 
+### المساعدة
 
-<details><summary>CLICK ME</summary>
+<details><summary>المساعدة 1</summary>
 <p>
+Double
+</p>
+</details>
 
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
+<details><summary>المساعدة 2</summary>
+<p>
+Telegraph
 </p>
 </details>
 
