@@ -25,12 +25,12 @@ footer-links:
   email: lab@muhammadnasef.com
   facebook: /m3malsec
   flickr:
-  github:
+  github: /0xnasef
   instagram:
   linkedin:
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: 
+  twitter: /m3malsec
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
   youtube: /channel/UCx2qgl5gjP_oSK_mz674EtA
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
@@ -45,7 +45,7 @@ google_analytics: UA-179025129-2
 
 # عنوان موقعك مثلاً http://barryclark.github.io
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
-url: http://lab.muhammadnasef.com
+url: http://m3malsec.com
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
 baseurl: ""
