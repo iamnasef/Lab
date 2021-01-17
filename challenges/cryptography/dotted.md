@@ -19,7 +19,7 @@ permalink: /challenges/cryptography/dotted
 لقد حصلت على هذه الرسالة من صديقك
 [رابط التحميل](https://drive.google.com/file/d/13RvBZi16xxQLU6s-MamdLAsfcqeiNQ3Q)
 
-### المساعدة
+### (Hint المساعدة)
 
 <details><summary>المساعدة 1</summary>
 <p>
