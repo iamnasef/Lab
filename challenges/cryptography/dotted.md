@@ -1,6 +1,6 @@
 ---
 layout: page
-title: تحدي dotted
+title: تحدي Dotted
 permalink: /challenges/cryptography/dotted
 ---
 > 
@@ -35,5 +35,5 @@ Telegraph
 
 
 ### التقارير
-
+[حل تحدي Dotted](https://youtu.be/Xz6eFzeINT0)
 
