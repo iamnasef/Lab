@@ -14,6 +14,7 @@ permalink: /courses/
 أولًا الدورات العامة وفي هذه الدورات نقدم لكم شروحات للأدوات و حل تحديات والعديد من المواضيع العامة الخاصة بأمن المعلومات.
 - [كورس تعلم أداة الوايرشارك Wireshark (GEN001)](https://www.youtube.com/playlist?list=PL71FakzkAfYtXETo4gJysS7KwrM-bB8RC)
 
+- [كورس تعلم أداة الإنماب Nmap (GEN002)](https://www.youtube.com/playlist?list=PL71FakzkAfYuIUO-4dfhDtp5jdLSMVFKI)
 
 
 ### (Red Team الفريق الأحمر)
