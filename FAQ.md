@@ -1,6 +1,6 @@
 ---
 layout: page
-title: التحديات
+title: أسئلة شائعة
 permalink: /FAQ/
 ---
 
