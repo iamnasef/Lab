@@ -1,0 +1,17 @@
+I"y<p>يُعتبر الجانب العملي هو أهم جانب في تعلم أمن المعلومات ؛ لذلك نقدم لكم في المعمل مجموعة من التحديات (CTF Challenges) التي ستساعدك في إثقال مهارات أمن المعلومات المختلفة.</p>
+
+<h3 id="معامل-الدورات">معامل الدورات</h3>
+<ul>
+  <li><a href="/challenges/courses/linesc">Linux Privilege Escalation معمل كورس تخطي صلاحيات لينكس</a></li>
+</ul>
+
+<h3 id="تحديات-boot2root-ماكينات">تحديات (Boot2root ماكينات)</h3>
+<ul>
+  <li><a href="/challenges/boot2root/nasef1">ناصف 1 - العثور على الهدف</a></li>
+</ul>
+
+<h3 id="تحديات-cryptography-تشفير">تحديات (Cryptography تشفير)</h3>
+<ul>
+  <li><a href="/challenges/cryptography/dotted">تحدي dotted</a></li>
+</ul>
+:ET
